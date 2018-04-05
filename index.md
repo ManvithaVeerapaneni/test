@@ -1,7 +1,4 @@
 ### Daily Report
-
-
-```markdown
 Monday
 
 # Header 1
