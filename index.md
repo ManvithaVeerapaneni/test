@@ -21,7 +21,7 @@
 
 ### Thursday
 
-- updated build document
+- updated build document.
 
 
 
