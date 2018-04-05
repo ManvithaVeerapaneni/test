@@ -1,5 +1,5 @@
 ### Daily Report
-Monday
+
 
 # Header 1
 ## Header 2
