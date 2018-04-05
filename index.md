@@ -1,7 +1,5 @@
 ### Daily Report
 
-
-
 ### Monday
 
 - Gone through Requirements and design videos for smartbox.
@@ -19,9 +17,7 @@
 - Removing '--none--' value from picklist in case creation,open case and closed case layouts.
 - Attended call from 6:30-7:00
 
-### Thursday
 
-- updated build document.
 
 
 
