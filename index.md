@@ -9,22 +9,21 @@
 
 ### Tuesday
 
-- Gone through Requirements and design videos for smartbox.
-- Attended call from 2 - 2:30
+- Build Document for request(43351).
+
+### Wednesday
+
+- Creation of Object(BulkPartRequest) and fields.
+- Compared components in Test and Mergedev21 environment.
+- Code coverage for classes
+- Removing '--none--' value from picklist in case creation,open case and closed case layouts.
+- Attended call from 6:30-7:00
+
+### Thursday
+
+- updated build document
 
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManvithaVeerapaneni/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
