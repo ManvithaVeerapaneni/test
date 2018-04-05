@@ -1,15 +1,18 @@
 ### Daily Report
 
 
-# Header 1
-## Header 2
-### Header 3
+
+### Monday
 
 - Gone through Requirements and design videos for smartbox.
 - Attended call from 2 - 2:30
 
-1. Numbered
-2. List
+### Tuesday
+
+- Gone through Requirements and design videos for smartbox.
+- Attended call from 2 - 2:30
+
+
 
 **Bold** and _Italic_ and `Code` text
 
